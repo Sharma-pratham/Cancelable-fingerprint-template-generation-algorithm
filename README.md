@@ -4,5 +4,5 @@ This algorithm is used to encrypt a users fingerprint image in such a way that t
 
 ## References
 
----
+
 Thanks a lot for the image enhancement files utkarsh-deshmukh(https://github.com/Utkarsh-Deshmukh/Fingerprint-Enhancement-Python)
