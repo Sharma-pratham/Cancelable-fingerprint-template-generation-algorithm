@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 28 18:12:44 2018
-
-@author: Utkarsh
-"""
 
 import numpy as np
 from skimage.morphology import convex_hull_image, erosion
