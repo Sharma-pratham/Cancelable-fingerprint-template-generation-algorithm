@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 30 18:44:22 2018
-
-@author: Utkarsh
-"""
-
 import cv2
 import numpy as np
 import skimage.morphology
